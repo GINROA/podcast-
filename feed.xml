@@ -1,0 +1,21 @@
+<rss version="2.0"
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+      <title>熱田ぎんろうの子育てと気づき</title>
+      <link>https://ginroa.github.io/podcast/</link>
+      <description><![CDATA[「人生は、もっと"なんとなく"でいいのかもしれない。」頑張ること、正しく生きること、ちゃんとすること。そんな世界にいた、あなた。それを、お子さんや
+  周囲の人に伝えてきた、あなた。何よりあなた自身に言い聞かせてきた、あなた。なのに、なんとなく違和感が溢れてきた、あなた。いや、もともとあったのかもしれない…。いつかの僕の
+  ように。人生のどん底から星読みに出会い、180°反対の『豊かな世界』で生きることに成功した熱田ぎんろうが、潜在意識・子育て・パパの育児・人生の伏線回収・幸せの正体についてお届
+  けします。]]></description>
+      <language>ja</language>
+      <itunes:author>熱田ぎんろう</itunes:author>
+      <itunes:owner>
+        <itunes:name>熱田ぎんろう</itunes:name>
+        <itunes:email>aosanotempula@gmail.com</itunes:email>
+      </itunes:owner>
+      <itunes:category text="Education"/>
+      <itunes:image href="https://ginroa.github.io/podcast/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </channel>
+  </rss>
